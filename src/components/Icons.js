@@ -429,18 +429,17 @@ export const MoonIcon = ({ className, ...rest }) => (
 
 export const CircularText = ({ className, ...rest }) => (
 <svg
-  version="1.0"
   xmlns="http://www.w3.org/2000/svg"
-  width="1080.000000pt" 
-  height="1080.000000pt" 
-  viewBox="0 0 1080.000000 1080.000000"
-  preserveAspectRatio="xMidYMid meet"
+  width="496"
+  height="496" 
+  viewBox="0 0 1080 1080"
+  xmlSpace="preserve"
   className={`w-full h-auto ${className}`}
   {...rest}
 >
 
 <g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+fill="light" stroke="none">
 <path d="M5605 9001 c-89 -21 -126 -36 -180 -74 -128 -90 -188 -242 -164 -411
 22 -159 103 -253 282 -331 31 -13 63 -16 160 -13 117 3 125 4 192 39 40 20 71
 43 73 53 2 10 -8 31 -23 46 l-27 28 -67 -36 c-62 -35 -71 -37 -156 -37 -74 0
